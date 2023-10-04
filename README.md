@@ -1,2 +1,2 @@
 # CaseLab_Vitrina
-A simple web application for adding, deleting and counting items in the cart, created using HTML, CSS and JavaScript.
+Простое веб-приложение для добавления, удаления и подсчета товаров в корзине, созданное с использованием HTML, CSS и JavaScript.
