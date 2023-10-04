@@ -1,4 +1,5 @@
 body {
+    width: 100%;
     background-image: url("../images/background.jpg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -66,9 +67,12 @@ button:hover {
 }
 
 .container_basket {
+    width: 100%;
     display: flex;
-    justify-content: center;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
 }
+
 
 .basket {
     margin-top: 6em;
@@ -110,3 +114,17 @@ h2 {
 h3 {
     text-align: center;
 }
+
+@media (max-width: 600px) {
+    .shop {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 1rem;
+    }
+
+    .basket {
+        width: 90%;
+        margin-top: 2em;
+    }
+
+}
+
