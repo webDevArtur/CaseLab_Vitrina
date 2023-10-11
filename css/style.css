@@ -96,6 +96,8 @@ ul {
 }
 
 li {
+    display: flex;
+    justify-content: center;
     width: 100%;
     border: 1px solid grey;
     font-size: 1.3em;
