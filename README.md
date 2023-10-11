@@ -16,7 +16,7 @@ https://webdevartur.github.io/CaseLab_Vitrina/
 
 # Технологии
 
-- Фронтенд разработан с использованием HTML, CSS и JavaScript.
+- Проект разработан с использованием HTML, CSS и JavaScript.
 
 # Запуск приложения
 
