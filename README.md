@@ -6,6 +6,8 @@
 - Добавление товаров в корзину.
 - Рассчет общей суммы заказа.
 
+![image](https://github.com/webDevArtur/CaseLab_Vitrina/assets/141954990/2f640ada-e12b-41cb-824f-2fc698bfc90e)
+
 # Ссылка на проект
 https://webdevartur.github.io/CaseLab_Vitrina/
 
